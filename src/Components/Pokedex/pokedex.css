@@ -2,7 +2,3 @@
     display: flex;
     flex-direction: column;
 }
-
-.pokedex-wrapper h1 {
-    margin: 20px auto;
-}

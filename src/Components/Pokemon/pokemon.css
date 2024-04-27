@@ -25,21 +25,22 @@
     max-height: 80%;
 }
 
+.pokemon-links {
+    text-decoration: none;
+}
+
 @media screen and (max-width:480px) {
     .pokemon {
-        flex-basis: 100%;
-        height: 350px;
-        width: 480px;
-        display: flex;
-        align-items: center;
-        justify-content: center;
-        flex-direction: column;
-        padding: 15px;
-        border-radius: 10px;
+        height: auto;
+        width: auto;
+        margin-bottom: 30px;
+        text-align: center;
+        
     }
 
     .pokemon-image {
-        height: 320px;
+        height: 200px;
+        width: 200px;
         max-height: 80%;
     }
     

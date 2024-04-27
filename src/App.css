@@ -1,0 +1,15 @@
+h1 {
+    text-align: center;
+    color: black;
+    margin-top: 20px;
+}
+
+.main-head {
+    text-decoration: none;
+}
+
+.main-body{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
